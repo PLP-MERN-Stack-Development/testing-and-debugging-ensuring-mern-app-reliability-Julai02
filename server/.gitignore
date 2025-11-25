@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Coverage
+coverage/
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Build outputs
+dist/
+build/
+
+# Editor
+.vscode/
+.idea/
+
+# Misc
+*.tgz
+tmp/
+temp/
